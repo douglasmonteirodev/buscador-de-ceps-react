@@ -2,11 +2,13 @@
 
 ## Projeto usando React
 
-## GitPage: https://douglasmonteirodev.github.io/buscador-de-ceps-react/build
+
 
  <p align="center">
       <img src="src/assets/preview/home_preview.png">
  </p>
+
+## GitPage: https://douglasmonteirodev.github.io/buscador-de-ceps-react/build
 
 ## Informações
 
