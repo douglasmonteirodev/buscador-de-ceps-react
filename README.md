@@ -1,8 +1,4 @@
-# BUSCADOR DE CEPS
-
-## Projeto usando React
-
-
+# BUSCADOR DE CEPS FEITO COM REACT 
 
  <p align="center">
       <img src="src/assets/preview/home_preview.png">
