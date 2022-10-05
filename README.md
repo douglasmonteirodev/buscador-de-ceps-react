@@ -2,7 +2,7 @@
 
 ## <i>Projeto feito com React JS </i>
 
-## GitPage: https://douglasmonteirodev.github.io/builds/buscador-de-ceps/
+## Link: https://douglasmonteirodev.github.io/builds/buscador-de-ceps/
 
  <p align="center">
       <img src="src/assets/preview/home_preview.png">
