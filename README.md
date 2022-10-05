@@ -1,10 +1,12 @@
-# BUSCADOR DE CEPS FEITO COM REACT 
+# BUSCADOR DE CEPS
+
+## <i>Projeto feito com React JS </i>
+
+## GitPage: https://douglasmonteirodev.github.io/builds/buscador-de-ceps/
 
  <p align="center">
       <img src="src/assets/preview/home_preview.png">
  </p>
-
-## GitPage: https://douglasmonteirodev.github.io/buscador-de-ceps-react/build
 
 ## Informações
 
@@ -14,6 +16,6 @@
 
 ## Descrição
 
--   `Ao digitar o cep, será mostrado o endereço do mesmo.`
+- `Ao digitar o cep, será mostrado o endereço do mesmo.`
 
 # Douglas Monteiro ❤😎
