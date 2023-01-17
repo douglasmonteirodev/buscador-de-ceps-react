@@ -1,21 +1,14 @@
-# BUSCADOR DE CEPS
+#  BUSCADOR DE CEPS
 
-## <i>Projeto feito com React JS </i>
-
-## Link: https://douglasmonteirodev.github.io/builds/buscador-de-ceps/
+[![Blog](https://img.shields.io/website?label=deploy&style=for-the-badge&url=https://buscador-de-ceps-react.vercel.app/)](https://buscador-de-ceps-react.vercel.app/)
 
  <p align="center">
       <img src="src/assets/preview/home_preview.png">
  </p>
 
-## Informações
+## Objetivo:
 
-### Objetivo desse projeto foi criar um buscador de cep simples e objetivo.
+### Foi criar um buscador de cep funcional utilizando axios para requisitar informações de uma api.
 
-### Os dados são consumidos da Api viacep.com.br.
 
-## Descrição
-
-- `Ao digitar o cep, será mostrado o endereço do mesmo.`
-
-# Douglas Monteiro ❤😎
+## <i>Douglas Monteiro</i> 😁🔥🚀
